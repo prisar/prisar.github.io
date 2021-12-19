@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## marriage between hardware and software
 
