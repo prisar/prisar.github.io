@@ -1,7 +1,7 @@
 ---
 published: true
 comments: 'yes'
-date: {}
+date: 2022-01-21T00:00:00.000Z
 title: my favourite podcast of the year
 ---
 I have been a big fan of a few good podcasts. I listen to them daily or at least a dozen times weekly. 
