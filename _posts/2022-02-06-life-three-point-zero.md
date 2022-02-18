@@ -13,6 +13,8 @@ He explains. Life is simply a process that can retain its complexity and replica
 Can machine have goals?
 
 How many FLOPS are needed for human intelligence?
+This no clear answer. By some estimates it could be 16 tera FLOPS. It maybe wrong due to analog nature 
+of the human brain.
 
 **Super star effect**
 
