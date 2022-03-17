@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## marriage between hardware and software
+#### marriage between hardware and software
 
 Software for the last few decades has been the driving force of many industries. Hardware has also got a faster and faster. But, it's really the [software](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460) which actually drove the innovation and productivity.
 
