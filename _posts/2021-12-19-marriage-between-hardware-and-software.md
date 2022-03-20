@@ -10,3 +10,6 @@ With the advent of smaller chips integrated into most of the objects we use in o
 [Google](https://www.bloomberg.com/news/newsletters/2021-08-11/what-google-s-new-chip-means-for-its-phones), [Tesla](https://en.wikichip.org/wiki/tesla_(car_company)/fsd_chip), [Huawei](https://siliconangle.com/2021/01/03/report-huawei-planning-worlds-first-3nm-mobile-chipset/) and many other major players are making their own chips ([SOC](https://en.wikipedia.org/wiki/System_on_a_chip)). It seems like this decade is going to the good for building custom chips. There maybe a lot of options available in the market. 
 
 Personally, I would also like to see some increase in adoption of [RISC-V](https://en.wikipedia.org/wiki/RISC-V). It can be a huge bet of smaller players even though there lesser tools available out there. The cost of making will be much more cheaper.
+
+Due to 5G, the connection between devices is likely to explode more and more. There is a possibility that there mobile app like impact in embedded consumer electronics. Some of the effect we can already see in case of cars, bulbs, Alexa among many others.
+Out of genuine curiosity i have been working on one side project for our farming utility. 
