@@ -10,3 +10,6 @@ although react native is great framework. It made my journey to app development 
 #### roadmap
 
 ![chakriapp](https://user-images.githubusercontent.com/7943405/159171903-14354ed6-5b55-4cbe-b393-810f9ddead92.png)
+
+#### repo
+https://github.com/prisar/chakri
