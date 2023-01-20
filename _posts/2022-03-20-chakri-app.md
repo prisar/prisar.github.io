@@ -1,6 +1,6 @@
 ---
 published: true
-titile: "Creating mobile apps for a low income region of India"
+title: "Creating mobile apps for a low income region of India"
 ---
 
 I have always wondered about the socio economic condition of northern part of west bengal. To be precise the district of uttar dinajpur. It has the lowest per capita income in west bengal. And this is the district where I am from. With decades of narrow minded politics have crippled the district. I don't want to engage in politics and yet I get reminded of their incompetenties everyday.
