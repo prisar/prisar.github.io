@@ -1,5 +1,6 @@
 ---
 published: true
+title: "People living in mountians"
 ---
 
 Last month I went to mountain. It was amazing to see the beauty and magnificent scenes at high altitude. On the flip side, it is very saddening to see how people live in the mountains.

@@ -1,5 +1,6 @@
 ---
 published: true
+title: "Changing world order"
 ---
 I finished reading Ray Dalio's new book, _Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail_. The book is a reflection of his opinion about the changing power structure of nations. 
 

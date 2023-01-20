@@ -1,5 +1,6 @@
 ---
 published: true
+title: "Marriage between hardware and software"
 ---
 #### marriage between hardware and software
 

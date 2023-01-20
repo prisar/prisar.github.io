@@ -1,5 +1,6 @@
 ---
 published: true
+title: "Life 3.0"
 ---
 I have recently read a book, _Life 3.0: Being Human in the Age of Artificial Intelligence_ by Max Tegmark.
 
