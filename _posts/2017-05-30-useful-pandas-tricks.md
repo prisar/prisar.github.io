@@ -26,3 +26,9 @@ import pandas as pd
 {% highlight python %}
 pd.read_csv('data.csv')
 {% endhighlight %}
+
+### information content
+
+```math
+I(E) = - \log_2(p(E))
+```
