@@ -1,5 +1,6 @@
 ---
 layout: post
+math: true
 title:  "Useful Pandas Tricks"
 date:   2017-05-30 00:00:00 +0000
 ---
@@ -32,3 +33,5 @@ pd.read_csv('data.csv')
 ```math
 I(E) = - \log_2(p(E))
 ```
+
+$\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2}$
