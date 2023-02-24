@@ -28,10 +28,5 @@ import pandas as pd
 pd.read_csv('data.csv')
 {% endhighlight %}
 
-### information content
-
-```math
-I(E) = - \log_2(p(E))
-```
 
 $\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2}$
