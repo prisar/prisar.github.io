@@ -9,3 +9,9 @@
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
+<script>
+// don't show body until MathJax finish
+            setTimeout(() => {document.body.style.visibility="visible"}, 5000); // show the body anyway after 5 sec
+            MathJax.Hub.Queue(() => document.body.style.visibility="visible");
+</script>
