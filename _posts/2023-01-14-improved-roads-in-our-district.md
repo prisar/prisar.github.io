@@ -1,5 +1,6 @@
 ---
 title:  "Improved roads in our district"
+math: false
 ---
 
 In the past few years, the roads in our district and north bengal has seen phenomenal construction of roads. Like many parts of the country our 
