@@ -3,8 +3,8 @@ title:  "Improved roads in our district"
 math: false
 ---
 
-In the past few years, the roads in our district and north bengal has seen phenomenal construction of roads. Like many parts of the country our 
-district has also started getting the benifits of huge capital expenditure from both the goverments. Our district is the poorest among the whole of 
+In the past few years, the infrastructure in our district and north bengal has seen phenomenal construction of roads. Like many parts of the country our 
+district has also started getting the benefits of huge capital expenditure from both the goverments. Our district is the poorest among the whole of 
 west bengal. For decades the northern west bengal is ignored due low economic activity. Even though most of the goods for north east india are 
 transported through this area. 
 
