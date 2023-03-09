@@ -58,4 +58,4 @@ minima:
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
     - { platform: twitter,        user_url: "https://twitter.com/prisarrr" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/@prisar" }
-    - { platform: goodreads,        user_url: "https://www.goodreads.com/prisar" }
+    - { platform: goodreads,      user_url: "https://www.goodreads.com/prisar" }
