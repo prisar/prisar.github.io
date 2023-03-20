@@ -29,4 +29,4 @@ pd.read_csv('data.csv')
 {% endhighlight %}
 
 
-$\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2}$
+
