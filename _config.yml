@@ -44,7 +44,7 @@ minima:
   #
   social_links:
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
-  #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
+  #   - { platform: dribbble,       user_url: "https://dribbble.com/prisar" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
     - { platform: github,         user_url: "https://github.com/prisar" }
@@ -54,8 +54,11 @@ minima:
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-  #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/3925626/prisar" }
+    - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/3925626/prisar" }
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
     - { platform: twitter,        user_url: "https://twitter.com/prisarrr" }
-  #   - { platform: youtube,        user_url: "https://www.youtube.com/@prisar" }
     - { platform: goodreads,      user_url: "https://www.goodreads.com/prisar" }
+    # - { platform: youtube,        user_url: "https://www.youtube.com/@prisar" }
+
+
+
