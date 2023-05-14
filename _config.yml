@@ -57,7 +57,7 @@ minima:
     - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/3925626/prisar" }
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
     - { platform: twitter,        user_url: "https://twitter.com/prisarrr" }
-    # - { platform: goodreads,      user_url: "https://www.goodreads.com/prisar" }
+    - { platform: goodreads,      user_url: "https://www.goodreads.com/prisar" }
     # - { platform: youtube,        user_url: "https://www.youtube.com/@prisar" }
 
 
