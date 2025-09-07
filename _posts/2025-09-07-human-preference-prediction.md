@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Human preference prediction”
+title:  "Human preference prediction"
 date:   2025-09-07 00:00:00 +0000
 ---
 
