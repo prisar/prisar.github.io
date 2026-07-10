@@ -18,3 +18,6 @@ type of customers look for free services. Giving free services is not sustainabl
 
 While building our product we found out that having demand itself is not enough. Making the customer understand the value is important. Otherwise, they 
 will promise but not buy ultimately.
+
+
+How do we mitigate this conversation problem? First, we need have clear understanding of what they are looking for. Second, let them have some experimental option.
