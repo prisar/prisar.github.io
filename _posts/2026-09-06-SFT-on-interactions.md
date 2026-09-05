@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SFT on interactions"
-date:   2026-09-06 00:00:30 +0000
+date:   2026-09-05 00:00:00 +0000
 ---
 
 I had sometime today to think about fine-tuning a model based on one of our dataset. It consists of 15k interactions. The training seems to give 
