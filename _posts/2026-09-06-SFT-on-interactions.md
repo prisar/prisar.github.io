@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SFT on interactions"
-date:   2026-08-29 00:05:30 +0000
+date:   2026-09-06 00:00:30 +0000
 ---
 
 I had sometime today to think about fine-tuning a model based on one of our dataset. It consists of 15k interactions. The training seems to give 
@@ -11,4 +11,4 @@ of our customer base.
 I feel that it is important to give customers best possible outcomes. Every penny they spend should give them max outputs. In order for our customers 
 to get that we should be having best model trained and harnessed in best ways.
 
-<img width="1442" height="851" alt="pansare" src="https://github.com/user-attachments/assets/74dc7cc4-4abd-42bd-82ad-fc972794de1b" />
+<img alt="pansare" src="https://github.com/user-attachments/assets/74dc7cc4-4abd-42bd-82ad-fc972794de1b" />
